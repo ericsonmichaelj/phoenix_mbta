@@ -1,0 +1,19 @@
+/* This file is for your main application css. */
+
+#app {
+    text-align: center;
+}
+.departure-table {
+    text-align: left;
+}
+
+.departure-container  {
+    margin: 0 1em;
+}
+
+@media(min-width: 768px) {
+    .departure-container {
+        margin: 0 6em;
+    }
+}
+
